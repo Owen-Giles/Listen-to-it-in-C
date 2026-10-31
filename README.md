@@ -1,12 +1,12 @@
-Tempo also looking for a new name for it                  
+Motif             
 -------------------------------------------------------------------------------
 Description:
    This program is written in C using the library raylib so you can have a nice
    UI and GUI to listen to your legally acquired .mp3, .wav, and .ogg. 
 
    * To compile on MacOS:
-      `gcc mp3App.c getSongs.c-o mp3PlayerApp $(pkg-config --libs --cflags raylib)`
-      `./mp3PlayerApp`
+      `gcc mp3App.c getSongs.c-o motif $(pkg-config --libs --cflags raylib)`
+      `./motif`
 
    * To compile on Linux:
       `Work in progress`
