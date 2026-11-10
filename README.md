@@ -1,4 +1,4 @@
-Motif             
+Listen to it in C             
 -------------------------------------------------------------------------------
 Description:
    This program is written in C using the library raylib so you can have a nice
